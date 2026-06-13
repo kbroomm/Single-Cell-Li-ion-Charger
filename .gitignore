@@ -1,0 +1,25 @@
+# KiCad local history and backups
+.history/
+*-backups/
+*~
+
+# KiCad lock files (project open in editor)
+*.lck
+~*
+
+# User-specific project settings
+*.kicad_prl
+
+# Temporary / cache
+*.tmp
+*.bak
+fp-info-cache
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
